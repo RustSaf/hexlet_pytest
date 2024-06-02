@@ -1,0 +1,16 @@
+*.egg-info
+*/__pycache__
+<<<<<<< HEAD
+*/*/__pycache__
+dist/
+=======
+dist
+/dist
+>>>>>>> f277ad8a6f81800532da32d8496602cf699f74af
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.pytest_cache/
+*.cast
+*.swp
